@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Irshadp556.github.io/contapp/static/css/main.20c8d521.css",
+    "main.js": "/Irshadp556.github.io/contapp/static/js/main.71fa18c5.js",
+    "index.html": "/Irshadp556.github.io/contapp/index.html",
+    "main.20c8d521.css.map": "/Irshadp556.github.io/contapp/static/css/main.20c8d521.css.map",
+    "main.71fa18c5.js.map": "/Irshadp556.github.io/contapp/static/js/main.71fa18c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c8d521.css",
+    "static/js/main.71fa18c5.js"
+  ]
+}
